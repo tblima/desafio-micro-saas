@@ -1,5 +1,4 @@
 import { db } from "@/app/lib/firebase";
-import stripe from "@/app/lib/stripe";
 import "server-only"
 
 import Stripe from "stripe";
